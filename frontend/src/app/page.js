@@ -949,7 +949,7 @@ function PricingSection() {
               <span className="text-6xl font-extrabold text-white">₹0</span>
               <span className="text-lg text-gray-500 ml-2">/forever</span>
             </div>
-            <div className="space-y-3 mb-10 text-left">
+            <div className="space-y-4 mb-10 max-w-xs mx-auto flex flex-col items-start">
               {features.map((feat, idx) => (
                 <div key={idx} className="flex items-center gap-3">
                   <Check className="w-5 h-5 text-emerald-400 shrink-0" />
