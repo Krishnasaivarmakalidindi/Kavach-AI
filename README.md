@@ -201,9 +201,11 @@ Below are actual visual screens showcasing the Kavach-AI device protection panel
 **Built By:**
 * **Harshavardhan-SHub**
 * **Krishnasaivarmakalidindi**
+* somanadh98
 
 **Developed for:**
 * **Takeover Hackathon - NIAT**
+  
 
 ---
 
